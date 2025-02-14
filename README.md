@@ -1,6 +1,6 @@
 # Integration and Version Control with Git
 
-Git & GitHub Project
+## Git & GitHub Project
 
 What You're Aiming For
 
