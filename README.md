@@ -9,7 +9,7 @@ Now that you have learned the basics of Git workflow, try running through it a c
 At this checkpoint, you are asked to take screenshots for each step in the instructions section, then push these screenshots to the GitHub repository.  
 
 
-Instructions
+### Instructions
 
 01. Create a folder called learn_git.
 02. Cd (change directory) into the learn_git folder.
