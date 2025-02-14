@@ -2,7 +2,7 @@
 
 ## Git & GitHub Project
 
-What You're Aiming For
+### What You're Aiming For
 
 Now that you have learned the basics of Git workflow, try running through it a couple of times on your own (see instructions).
 
